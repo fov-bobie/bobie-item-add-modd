@@ -1,0 +1,11 @@
+
+{
+    "JA":
+    {
+        "EXAMPLE_CLOAKONKILL_NAME" : "スカイブースター",
+        "EXAMPLE_CLOAKONKILL_NAME" : "スカイブースター",
+        "EXAMPLE_CLOAKONKILL_PICKUP" : "空中にいる間攻撃力が10%上がる",
+        "EXAMPLE_CLOAKONKILL_DESC" : "空中にいる間攻撃力が10%上がる",
+        "EXAMPLE_CLOAKONKILL_LORE" : "なんもないぞ",
+    }
+}
